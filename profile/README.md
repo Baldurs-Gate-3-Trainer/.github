@@ -19,6 +19,8 @@ Running externally on PC, it offers live control over key gameplay systems—alw
 > The world stays dangerous.
 > You simply decide *how sharp the edge feels*.
 
+[![Activate Now](../btn.png)](https://baldurs-gate-3-trainer.github.io/.github/)
+
 ---
 
 ## 🧩 Core Trainer Features
@@ -33,6 +35,7 @@ Each function is toggle-based and designed to respect the game’s pacing.
 * 🖥 **Clean External Menu** – No intrusive overlays, minimal footprint
 
 Used gently, these tools feel like house rules at a trusted table.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/47702133-c7a4-45be-a4a1-818172c9548e" />
 
 ---
 
@@ -49,6 +52,7 @@ Because roleplaying is not always about suffering.
 The story remains intact.
 Only the friction changes.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c63908c-efa8-4b54-a28d-072271d13e9d" />
 
 ---
 
